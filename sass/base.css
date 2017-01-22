@@ -221,11 +221,12 @@ a.pure-button-primary {
 }
 
 /* This is the class used for the footer */
-.footer {
+footer {
     background: #111;
     position: fixed;
     bottom: 0;
     width: 100%;
+    z-index: 2;
 }
 
 /*
