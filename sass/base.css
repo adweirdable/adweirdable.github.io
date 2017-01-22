@@ -19,15 +19,10 @@ h2,
 h3,
 h4,
 h5,
-h6,
-label {
+h6 {
     color: #34495e;
 }
 
-.pure-img-responsive {
-    max-width: 100%;
-    height: auto;
-}
 
 /*
  * -- LAYOUT STYLES --
@@ -46,32 +41,12 @@ label {
     text-align: center;
 }
 
-
-
-/*
- * -- PURE FORM STYLES --
- * Style the form inputs and labels
- */
-.pure-form label {
-    margin: 1em 0 0;
-    font-weight: bold;
-    font-size: 100%;
-}
-
-.pure-form input[type] {
-    border: 2px solid #ddd;
-    box-shadow: none;
-    font-size: 100%;
-    width: 100%;
-    margin-bottom: 1em;
-}
-
 /*
  * -- PURE BUTTON STYLES --
  * I want my pure-button elements to look a little different
  */
 .pure-button {
-    background-color: #1f8dd6;
+    background-color: #CCAC00;
     color: white;
     padding: 0.5em 2em;
     border-radius: 5px;
@@ -79,15 +54,13 @@ label {
 
 a.pure-button-primary {
     background: white;
-    color: #1f8dd6;
+    color: #CCAC00;
     border-radius: 5px;
     font-size: 120%;
 }
 
-
 /*
  * -- MENU STYLES --
- * I want to customize how my .pure-menu looks at the top of the page
  */
 
 .home-menu {
@@ -122,9 +95,8 @@ a.pure-button-primary {
 .home-menu li a:focus {
     background: none;
     border: none;
-    color: #AECFE5;
+    color: #CCAC00;
 }
-
 
 /*
  * -- SPLASH STYLES --
@@ -132,7 +104,7 @@ a.pure-button-primary {
  */
 
 .splash-container {
-    background: #1f8dd6;
+    background: #CCAC00;
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
@@ -201,24 +173,15 @@ a.pure-button-primary {
     margin: 2em 0 1em;
 }
 
-/* This is a modifier class used when the content-head is inside a ribbon */
-.content-head-ribbon {
-    color: white;
-}
-
 /* This is the class used for the content sub-headers (<h3>) */
 .content-subhead {
-    color: #1f8dd6;
+    color: #CCAC00;
 }
     .content-subhead i {
         margin-right: 7px;
     }
 
-/* This is the class used for the dark-background areas. */
-.ribbon {
-    background: #2d3e50;
-    color: #aaa;
-}
+
 
 /* This is the class used for the footer */
 footer {
@@ -284,4 +247,8 @@ footer {
     .splash-head {
         font-size: 300%;
     }
+}
+
+main a {
+  color: #CCAC00;
 }
