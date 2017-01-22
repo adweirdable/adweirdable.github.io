@@ -6,4 +6,4 @@ categories: wedding
 permalink: save-the-date
 ---
 
-[{{ page.title }}]("{{ page.url | prepend: site.github.url }}")
+[{{ post.title }}]("{{ post.url | prepend: site.github.url }}")
