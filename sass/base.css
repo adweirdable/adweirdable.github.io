@@ -104,11 +104,12 @@ a.pure-button-primary {
  */
 
 .splash-container {
-    background: #f4d2b7; /* Old browsers */
-    background: -moz-linear-gradient(45deg,  #f4d2b7 0%, #f5e0cf 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg,  #f4d2b7 0%,#f5e0cf 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg,  #f4d2b7 0%,#f5e0cf 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4d2b7', endColorstr='#f5e0cf',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    background: #CCAC00
+    /* background: #f4d2b7; */
+    /* background: -moz-linear-gradient(45deg,  #f4d2b7 0%, #f5e0cf 100%); */
+    /* background: -webkit-linear-gradient(45deg,  #f4d2b7 0%,#f5e0cf 100%);  */
+    /* background: linear-gradient(45deg,  #f4d2b7 0%,#f5e0cf 100%);  */
+    /* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4d2b7', endColorstr='#f5e0cf',GradientType=1 );  */
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
