@@ -1,1 +1,25 @@
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
 
+html {
+	font: normal 100%/1.5 'Myriad Pro', sans-serif;
+}
+
+header {
+	background-color: #eeeeee;
+	margin-bottom: 1em;
+	padding: 2em;
+}
+
+h1 {
+	margin-bottom: 0;
+}
+
+main {
+  p {
+    color: #555;
+  }
+}
