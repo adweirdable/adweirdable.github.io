@@ -89,13 +89,13 @@ a.pure-button-primary {
 }
 
 .home-menu a {
-    color: #6FBEF3;
+    color: #CCAC00;
 }
 .home-menu li a:hover,
 .home-menu li a:focus {
     background: none;
     border: none;
-    color: #CCAC00;
+    color: #a38900;
 }
 
 /*
@@ -249,6 +249,6 @@ footer {
     }
 }
 
-main a {
+a {
   color: #CCAC00;
 }
