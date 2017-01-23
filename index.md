@@ -11,13 +11,13 @@ permalink: /
         Getting married | August 16, 2017 | Arlington Woods Church
     </p>
     <p>
-        <a href="{{ site.baseurl }}{% post_url /posts/2017-01-22-save-the-date %}" class="pure-button pure-button-primary">RVSP</a>
+        <a href="#save_the_date" class="pure-button pure-button-primary">RVSP</a>
     </p>
 </div>
 
 <div class="content-wrapper">
-    <div class="content">
-        <h2 id="save_the_date" class="content-head is-center">Wedding date schedule</h2>
+    <div id="save_the_date" class="content">
+        <h2 class="content-head is-center">Wedding date schedule</h2>
 
         <div class="pure-g">
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
