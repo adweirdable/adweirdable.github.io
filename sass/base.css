@@ -112,7 +112,7 @@ a.pure-button-primary {
       -o-background-size: cover;
       background-size: cover;
       -webkit-filter: grayscale(1);
-      filter: grayscale(1);
+      filter: grayscale(1) blur(20px);
     /* background: #f4d2b7; */
     /* background: -moz-linear-gradient(45deg,  #f4d2b7 0%, #f5e0cf 100%); */
     /* background: -webkit-linear-gradient(45deg,  #f4d2b7 0%,#f5e0cf 100%);  */
