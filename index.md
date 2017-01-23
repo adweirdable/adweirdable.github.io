@@ -6,12 +6,12 @@ permalink: /
 
 <div class="splash-container"></div>
 <div class="splash">
-    <h1 class="splash-head">Welcome</h1>
+    <h1 class="splash-head">Patrick & Lisa</h1>
     <p class="splash-subhead">
-        We are so thankful to have you as part of our journey.
+        Getting married | August 16, 2017 | Arlington Woods Church
     </p>
     <p>
-        <a href="{{ site.baseurl }}{% post_url /posts/2017-01-22-save-the-date %}" class="pure-button pure-button-primary">Save the date</a>
+        <a href="{{ site.baseurl }}{% post_url /posts/2017-01-22-save-the-date %}" class="pure-button pure-button-primary">RVSP</a>
     </p>
 </div>
 
