@@ -89,7 +89,7 @@ a.pure-button-primary {
 
 .home-menu .pure-menu-heading {
     color: white;
-    background-color: #bf9c2e;
+    background-color: rgba(45, 62, 80, 0.95);
     font-weight: 400;
     font-size: 120%;
 }
