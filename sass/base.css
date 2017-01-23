@@ -81,6 +81,7 @@ a.pure-button-primary {
 
 .home-menu .pure-menu-heading {
     color: white;
+    background-color: #ccac00;
     font-weight: 400;
     font-size: 120%;
 }
@@ -135,19 +136,22 @@ a.pure-button-primary {
     margin: auto;
     position: absolute;
     z-index: 2;
-    top: 100px; left: 0; bottom: 0; right: 0;
+    top: 60px; left: 0; bottom: 0; right: 0;
     text-align: center;
     text-transform: uppercase;
+    background-color: #fff;
+    padding: 0 1em;
 }
 
 /* This is the main heading that appears on the blue section */
 .splash-head {
     font-size: 20px;
     font-weight: bold;
-    color: white;
-    border: 3px solid white;
+    background-color: #2d3e50;
+    color: #ccac00;
+    //border: 3px solid white;
     padding: 1em 1.6em;
-    font-weight: 100;
+    font-weight: 300;
     border-radius: 5px;
     line-height: 1em;
 }
