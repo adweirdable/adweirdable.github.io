@@ -106,7 +106,7 @@ a.pure-button-primary {
 
 .splash-container {
     background: #CCAC00;
-      background: url({{site.baseurl}}/assets/splash-banner.jpg) no-repeat center center fixed; 
+      background: url(/assets/splash-banner.jpg) no-repeat center center fixed; 
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
