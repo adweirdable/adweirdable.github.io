@@ -23,6 +23,7 @@ h4,
 h5,
 h6 {
     color: #34495e;
+    font-family: 'Leckerli One', cursive;
 }
 
 
@@ -140,7 +141,7 @@ a.pure-button-primary {
     z-index: 2;
     top: 60px; left: 0; bottom: 0; right: 0;
     text-align: center;
-    text-transform: uppercase;
+    //text-transform: uppercase;
     background-color: #fff;
     padding: 0 1em;
 }
