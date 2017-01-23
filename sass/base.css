@@ -106,6 +106,13 @@ a.pure-button-primary {
 
 .splash-container {
     background: #CCAC00;
+      background: url({{site.baseurl}}/assets/splash-banner.jpg) no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      -webkit-filter: grayscale(1);
+      filter: grayscale(1);
     /* background: #f4d2b7; */
     /* background: -moz-linear-gradient(45deg,  #f4d2b7 0%, #f5e0cf 100%); */
     /* background: -webkit-linear-gradient(45deg,  #f4d2b7 0%,#f5e0cf 100%);  */
