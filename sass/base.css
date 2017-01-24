@@ -278,4 +278,12 @@ footer {
 
 a {
   color: #cc7929;
+  text-decoration: none;
+}
+
+#skiplink {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
