@@ -8,10 +8,10 @@ permalink: /
 <div class="splash">
     <h1 class="splash-head">Patrick & Lisa</h1>
     <p class="splash-subhead">
-        Getting married | August 16, 2017 | Arlington Woods Church
+        Getting married | August 19, 2017 | Arlington Woods Church
     </p>
     <p>
-        <a href="#save_the_date" class="pure-button pure-button-primary">RVSP</a>
+        <a href="#save_the_date" class="pure-button pure-button-primary">Save the date</a>
     </p>
 </div>
 
