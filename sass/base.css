@@ -11,11 +11,11 @@
 body {
     line-height: 1.7em;
     color: #7f8c8d;
-    background: url(/assets/background-pattern.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background: url(/assets/name-pattern-web.jpg) repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
     font-size: 13px;
     text-align: center;
     font-family: 'Arsenal', sans-serif;
