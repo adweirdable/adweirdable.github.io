@@ -10,12 +10,9 @@ permalink: /
     <p class="splash-subhead">
         Getting married | August 19, 2017 | Arlington Woods Church
     </p>
-    <p>
+    <p id="skiplink">
         <a href="#save_the_date" class="pure-button pure-button-primary">Save the date</a>
     </p>
-    <div id="skiplink">
-        <a href="#save_the_date">v</a>
-    </div>
 </div>
 
 <div class="content-wrapper">
